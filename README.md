@@ -3,7 +3,6 @@
 
 A Spring Boot REST API for engineering teams to log incidents, write structured post-mortems, and surface recurring failure patterns — before they become outages.
 
----
 
 ## Features
 
